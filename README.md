@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+# ML Main Repositry
+This repository contains the labs for the ML Course
