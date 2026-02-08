@@ -7,4 +7,7 @@
 
 **Regression Target Variable**: Saleprice The model is expected to predict the final sale price of a house (SalePrice) based on its physical characteristics, location, quality, and condition.
 
-**Dataset Link**:https://www.kaggle.com/datasets/lespin/house-prices-dataset?resource=download
+## Lab Files
+- 📘 [Jupyter Notebook](Jupyter.ipynb)
+- **Dataset Link:** [House Prices Dataset](https://www.kaggle.com/datasets/lespin/house-prices-dataset?resource=download)
+
