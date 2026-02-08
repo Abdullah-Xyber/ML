@@ -5,6 +5,6 @@
 
 **Problem Details**: Supervised Learning 
 
-<br>**Regression Target Variable**: Saleprice The model is expected to predict the final sale price of a house (SalePrice) based on its physical characteristics, location, quality, and condition.
+**Regression Target Variable**: Saleprice The model is expected to predict the final sale price of a house (SalePrice) based on its physical characteristics, location, quality, and condition.
 
 **Dataset Link**:https://www.kaggle.com/datasets/lespin/house-prices-dataset?resource=download
