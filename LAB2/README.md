@@ -4,6 +4,7 @@
 **Problem Definition**:This model focuses on a supervised regression problem that aims to predict the final sale price of a house based on its features. The model learns from historical housing data to estimate prices for new properties.
 
 **Problem Details**: Supervised Learning 
+
 <br>**Regression Target Variable**: Saleprice The model is expected to predict the final sale price of a house (SalePrice) based on its physical characteristics, location, quality, and condition.
 
 **Dataset Link**:https://www.kaggle.com/datasets/lespin/house-prices-dataset?resource=download
