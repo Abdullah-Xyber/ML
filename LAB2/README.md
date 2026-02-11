@@ -11,6 +11,6 @@
 > This section contains the main notebook used for the lab and the dataset required for analysis.
 - **📘 Notebook:** [Jupyter Notebook](Jupyter.ipynb)
 - **🗂️ Dataset Link:** [House Prices Dataset](https://www.kaggle.com/datasets/lespin/house-prices-dataset?resource=download)
-- - **🖼️ Methodology Diagram:** [Methodology Diagram](Methodology%20Diagram.png)
+- **🖼️ Methodology Diagram:** [Methodology Diagram](Methodology%20Diagram.png)
 
 
