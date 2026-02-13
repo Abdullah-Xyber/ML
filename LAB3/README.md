@@ -51,7 +51,7 @@ The model estimates the final sale price of a house based on its features.
 
 - 📊 **Dataset:** [`train.csv`](train.csv)  
 - 📄 **Attribute Description:** [`data_description.txt`](data_description.txt)  
-- 📘 **EDA Notebook:** [`EDA_LAB3.ipynb`](EDA LAB3.ipynb)  
+- 📘 **EDA Notebook:** [`EDA_LAB3.ipynb`](EDA_LAB3.ipynb)  
 
 ---
 
