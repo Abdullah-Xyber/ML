@@ -51,7 +51,10 @@ The model estimates the final sale price of a house based on its features.
 
 - 📊 **Dataset:** [`train.csv`](train.csv)  
 - 📄 **Attribute Description:** [`data_description.txt`](data_description.txt)  
-- 📘 **EDA Notebook:** [`EDA_LAB3.ipynb`](EDA_LAB3.ipynb)  
+- 📘 **EDA Notebook:** [`EDA_LAB3.ipynb`](EDA_LAB3.ipynb)
+- 📈 **Data Visualization - Matplotlib:** [`data visualization-matplotlib.ipynb`](data%20visualization-matplotlib.ipynb)  
+- 🎨 **Data Visualization - Seaborn:** [`data visualization-Seaborn.ipynb`](data%20visualization-Seaborn.ipynb)  
+
 
 ---
 
