@@ -61,5 +61,5 @@ The dataset contains a mixture of numerical and categorical variables describing
 
 ---
 ## Files
-🔗 **Notebook File:** [LAB4_DataqualityAssesment.ipynb](./LAB4_DataqualityAssesment.ipynb)  
+🔗 **Notebook File:** [LAB4_DataqualityAsssesment.ipynb](./LAB4_DataqualityAsssesment.ipynb)  
 🔗 **Dataset File:** [train.csv](./train.csv)
