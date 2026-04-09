@@ -1,6 +1,6 @@
 ## 📌 LAB6 Overview
-This lab focuses on applying **Linear Regression** to analyze customer behavior using the 
-[Ecommerce Customers](Ecommerce Customers.csv) dataset
+This lab focuses on applying **Linear Regression** to analyze customer behavior using the dataset 
+[Ecommerce Customers](Ecommerce Customers) 
 implemented in the [LAB6.ipynb](LAB6.ipynb) notebook.
 
 The goal is to explore how different user activity features influence the **Yearly Amount Spent**. The dataset includes behavioral metrics such as time spent on the app, time spent on the website, session duration, and membership length.
